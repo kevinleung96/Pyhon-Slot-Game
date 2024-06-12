@@ -28,9 +28,9 @@ This Python script implements a basic slot machine game where players can place 
 To play the Python Slot Machine Game, follow these steps:
 
 1. Clone the repository to your local machine:
-
+  git clone 
    ```bash
-   git clone https://github.com/kevinleung96/python-slot-machine.git
+   https://github.com/kevinleung96/python-slot-machine.git
    ```
 
 2. Navigate to the project directory:
