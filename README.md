@@ -30,7 +30,7 @@ To play the Python Slot Machine Game, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-slot-machine.git
+   git clone https://github.com/kevinleung96/python-slot-machine.git
    ```
 
 2. Navigate to the project directory:
@@ -59,7 +59,7 @@ To play the Python Slot Machine Game, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/kevinleung96/python-slot-game/issues) or [create a pull request](https://github.com/kevinleung96/python-slot-game/pulls).
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/kevinleung96/python-slot-machine/issues) or [create a pull request](https://github.com/kevinleung96/python-slot-machine/pulls).
 
 ## License
 
